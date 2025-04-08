@@ -143,3 +143,65 @@ header #main {
     text-decoration: none;
 }
 
+
+.section1 .arrow {
+    color: gray;
+    font-size: 0.8rem;
+    margin-top: 10px;
+    
+}
+.section1 .arrow:hover {
+    cursor: pointer;
+
+}
+.section-box1 .bar{
+    color: #000;
+    font-size: 1rem;
+    padding: 5px;
+}
+
+.section-box1 .bar:hover{
+    cursor: pointer;
+}
+
+.section-box2 {
+    margin-right: 150px; 
+    display: flex;
+    gap: 10px; 
+    padding: 10px; 
+}
+
+
+.section-box2 img {
+margin-top: 5px;
+height: 20px;
+width: 30px;
+}
+
+.section-box2 .first{
+    font-size: 12px;
+    margin-left: 5px;
+    color: gray;
+} 
+
+.section-box2 .second {
+    margin-top: 9px;
+    color: gray;
+    font-size: 12px;
+}
+
+.section-box1 span, .section-box2 span {
+    padding: 5px;
+    border-radius: 3px;
+}
+
+.section-box1 span:hover, .section-box2 span:hover{
+    cursor: pointer;
+    background-color: #E5F1FF;
+    border-radius: 5px;
+
+}
+
+
+
+
