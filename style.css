@@ -1286,6 +1286,77 @@ width: 30px;
     color: #007bff;
 }
 
+/* Get App Section */
+
+
+.footer-app h3 {
+    font-size: 1rem;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.footer-app img {
+    width: 120px;
+    display: block;
+    margin: 5px auto;
+    cursor: pointer;
+}
+
+/* Footer Bottom */
+.footer-bottom {
+    background-color: #EFF2F4;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    /* Full width */
+    margin: 0;
+    /* No extra margin */
+    border-top: 1px solid #ccc;
+    padding: 20px 70px;
+    
+    flex-wrap: wrap;
+    /* Wrap content on small screens */
+}
+
+.footer-bottom p{
+    font-size: 0.8rem;
+    color: #606060;
+}
+
+/* Language Selector */
+.footer-language {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+
+/* Language Icon */
+.footer-language img {
+    width: 20px;
+    margin-right: 5px;
+}
+
+.footer-language span {
+    color: #606060;
+    font-size: 0.7rem;
+}
+
+
+/* Chevron Icon */
+.footer-language i {
+    font-size: 0.6rem;
+    
+}
+
+
+
+
+
+
+
+
+
 
 
 
