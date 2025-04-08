@@ -1258,6 +1258,33 @@ width: 30px;
 }
 
 
+/* Footer Links */
+.footer-links {
+    display: flex;
+    gap: 40px;
+    margin-bottom: 20px;
+}
+
+.footer-column h3 {
+    font-size: 0.9rem;
+    font-weight: bold;
+    
+}
+
+.footer-column ul {
+    list-style: none;
+}
+
+
+.footer-column ul li a {
+    text-decoration: none;
+    color: #666;
+    font-size: 0.7rem;
+}
+
+.footer-column ul li a:hover {
+    color: #007bff;
+}
 
 
 
