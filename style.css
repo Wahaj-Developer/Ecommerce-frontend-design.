@@ -119,3 +119,27 @@ header #main {
 }
 
 
+.section1 {
+    display: flex;
+    font-weight: 500;
+    font-size: 0.8rem;
+    justify-content: space-between; 
+    border: 1px solid #f0f0f0;
+    background-color: #ffff;
+    align-items: center; 
+    width: 100%; 
+}
+
+.section-box1 {
+    margin-left: 58px; 
+    display: flex;
+    gap: 10px; 
+    padding: 10px; 
+}
+
+.section-box1 a {
+    padding: 5px;
+    color: #000;
+    text-decoration: none;
+}
+
