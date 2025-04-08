@@ -656,6 +656,132 @@ width: 30px;
 }
 
 
+.small-boxes-row {
+    flex: 1;
+    display: flex;
+    
+    background: transparent;
+}
+
+
+
+.deal-box1.small1 {
+    flex: 1;
+    min-width: 0;
+    height: 100%;
+    padding: 10px;
+    display: flex;
+    align-items: center; /* Vertically center content */
+}
+
+/* Content wrapper - already flex by default */
+.deal-box1.small1 .content-wrapper {
+    width: 100%;
+    display: flex;
+    justify-content: space-between; /* Push left and right to opposite ends */
+    align-items: center;
+}
+
+/* Left side (text content) */
+.deal-box1.small1 .left {
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding-right: 10px;
+}
+
+.deal-box1.small1 .left .product {
+    margin-top: -25px;
+    margin-bottom: 5px;
+    font-size: 0.8rem;
+}
+
+.deal-box1.small1 .left .price {
+    font-size: 0.6rem;
+    color: #8B96A5;
+}
+
+/* Right side (image) */
+.deal-box1.small1 .right {
+    flex-shrink: 0;
+    width: 50px;
+    height: 50px;
+    margin: -7px;
+    margin-top: 25px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end; /* Align image to the right */
+}
+
+.deal-box1.small1 .right img {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+}
+
+
+.deal-box1.big2 {
+    flex: 0 0 30%;
+    background-image: url(images/image\ 98.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+   justify-content: flex-start;
+    padding: 15px; 
+    color: white; 
+}
+
+.deal-box1.big2 p {
+   
+    color: #000;
+    font-size: 1rem; 
+    font-weight: bold; 
+}
+
+.deal-list1 .deal-box1.big2 button {
+    margin-top: 15px; 
+    padding: 8px 20px;
+    background-color: #ffffff;
+    color: #333333;
+    border: none;
+    border-radius: 4px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.deal-list1 .deal-box1.big2 button:hover {
+    background-color: #E5F1FF;
+  
+}
+
+
+
+
+
+
+.banner {
+    width: 100%;
+    padding: 10px 0;
+    background: #f5f5f5; 
+}
+  
+.banner-content {
+    width: 77%;
+    border-radius: 5px;
+    height: 50vh;
+    margin: 0 auto;
+    background-image: url('images/Mask group.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex; /* Enable flexbox */
+    justify-content: space-between; /* Space between left & right */
+    align-items: center; /* Vertically center children */
+    padding: 0 5px; /* Add some padding */
+}
 
 
 
