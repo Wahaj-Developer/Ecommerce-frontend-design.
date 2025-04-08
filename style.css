@@ -1119,6 +1119,35 @@ width: 30px;
 }
 
 
+/* Footer and subscription Section Start */
+.newsletter-section {
+    background-color: #EFF2F4;
+    padding: 40px 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.newsletter-container {
+    text-align: center;
+    margin-left: 180px;
+    max-width: 600px;
+    width: 100%;
+}
+
+.newsletter-container h2 {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 8px;
+    margin-top: 30px;
+}
+
+.newsletter-container p {
+    font-size: 1rem;
+    color: #666;
+    margin-bottom: 20px;
+}
+
 
 
 
