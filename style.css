@@ -89,3 +89,33 @@ header #main {
     cursor: pointer;
 }
 
+#main .box .icons {
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    gap: 25px; 
+    margin-left: 15px;
+}
+
+.icon-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 4px; 
+}
+
+.icon-item i {
+    font-size: 15px;
+    color: #8B96A5;
+    cursor: pointer;
+}
+
+.icon-item span {
+    font-size: 0.6rem;
+    font-weight: 400;
+    color: #979797;
+    
+}
+
+
