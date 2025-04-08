@@ -1007,6 +1007,118 @@ width: 30px;
 }
 
 
+.servic-box .box1 .left {
+    width: 100%; /* Takes full width (since flex-direction is column) */
+    height: 60%; /* Takes 80% height (top) */
+    background-image: url(service/1.png);
+    background-size: cover;
+    filter: brightness(50%);
+    background-position: center;
+}
+
+.servic-box .box2 .left {
+    width: 100%; /* Takes full width (since flex-direction is column) */
+    height: 60%; /* Takes 80% height (top) */
+    background-image: url(service/2.png);
+    background-size: cover;
+    filter: brightness(50%);
+    background-position: center;
+}
+
+.servic-box .box3 .left {
+    width: 100%; /* Takes full width (since flex-direction is column) */
+    height: 60%; /* Takes 80% height (top) */
+    background-image: url(service/3.png);
+    background-size: cover;
+    filter: brightness(50%);
+    background-position: center;
+}
+
+.servic-box .box4 .left {
+    width: 100%; /* Takes full width (since flex-direction is column) */
+    height: 60%; /* Takes 80% height (top) */
+    background-image: url(service/4.png);
+    background-size: cover;
+    filter: brightness(50%);
+    background-position: center;
+}
+
+
+.servic-box .box .right {
+    width: 100%; /* Takes full width (since flex-direction is column) */
+    height: 20%; /* Takes 20% height (bottom) */
+    padding: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start; /* Center text horizontally */
+}
+
+.servic-box .box .right p {
+    padding-top: 4px;
+    padding-left: 5px;
+    font-weight: 500;
+    font-size: 0.7rem;
+  
+}
+
+.sipliy {
+    width: calc(100% - 20px);
+    background: #f5f5f5;
+    box-sizing: border-box;
+    margin: 0 10px;
+    padding: 20px;
+}
+
+.sipliy h1 {
+    text-align: left;
+    margin-bottom: 20px;
+    margin-left: 70px;
+    font-size: 24px;
+    color: #333;
+}
+
+.sipliy .flag-container {
+    display: grid;
+    grid-template-columns: repeat(5, 131px);
+    gap: 40px;
+    justify-content: center;
+}
+
+.flag-container .flags {
+    display: flex;          /* Add flexbox to flags container */
+    align-items: center;    /* Vertically center items */
+    gap: 8px;              /* Space between image and text */
+    height: 50px;
+    width: 140px;
+    padding: 0 10px;       /* Add some padding on sides */
+    box-sizing: border-box;
+}
+
+.flag-container .flags img {
+    height: 20px;
+    width: 30px;
+    flex-shrink: 0;        /* Prevent image from shrinking */
+}
+
+.flag-container .flags .p1 {
+    font-size: 0.8rem;
+    white-space: nowrap;   /* Prevent text from wrapping */
+    overflow: hidden;      /* Hide overflow */
+    text-overflow: ellipsis; /* Show ellipsis if text too long */
+}
+
+.flag-container .flags .p2{
+    font-size: 0.6rem;
+    color: #8B96A5;
+    white-space: nowrap;   /* Prevent text from wrapping */
+    overflow: hidden;      /* Hide overflow */
+    text-overflow: ellipsis; /* Show ellipsis if text too long */
+    
+
+}
+
+
 
 
 
