@@ -545,3 +545,90 @@ color: #DEE2E7;
   }
 
 
+/* Footer and subscription Section Start */
+.newsletter-section {
+  background-color: #EFF2F4;
+  padding: 40px 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.newsletter-container {
+  text-align: center;
+  margin-left: 180px;
+  max-width: 600px;
+  width: 100%;
+}
+
+.newsletter-container h2 {
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 8px;
+  margin-top: 30px;
+}
+
+.newsletter-container p {
+  font-size: 1rem;
+  color: #666;
+  margin-bottom: 20px;
+}
+
+/* Input & Button Container */
+.newsletter-form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
+.input-group {
+  display: flex;
+  align-items: center;
+  background: #fff;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 5px;
+  width: 70%;
+  max-width: 300px;
+}
+
+.input-group i {
+  color: #666;
+  margin-right: 8px;
+}
+
+.input-group input {
+  border: none;
+  outline: none;
+  width: 100%;
+  font-size: 14px;
+}
+
+.fa-envelope {
+  color: #666;
+}
+
+.subscribe-btn {
+  background: #007bff;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  font-size: 1rem;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.subscribe-btn:hover {
+  background: #fff;
+  border: 1px solid #007bff;
+  color: #007bff;
+}
+
+
+/* Footer Section */
+.footer-section {
+  background-color: white;
+  padding: 40px 20px;
+}
+
