@@ -371,3 +371,33 @@ margin-bottom: 10px;
 
 
 
+
+
+
+ .product-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-top: 20px;
+  }
+  
+  .product {
+    flex: 0 0 calc(33.333% - 14px);
+    height: 250px;
+    background-color: #fff;
+    border: 1px solid #DEE2E7;
+    border-radius: 6px;
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+  }
+  
+  .product img {
+    height: 150px;
+    width: 150px;
+    object-fit: contain;
+    align-self: center; 
+    margin-bottom: 10px;
+  }
+
+
