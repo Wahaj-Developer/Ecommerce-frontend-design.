@@ -209,3 +209,78 @@ width: 30px;
 
 
 
+.container {
+display: flex;
+max-width: 1200px;
+background: #f5f5f5;
+margin: auto;
+padding: 20px;
+}
+
+
+.sidebar {
+width: 250px;
+padding: 8px;
+border-radius: 15px;
+margin-right: 20px;
+}
+
+             
+
+
+
+
+.filters .heading{
+  display: flex;
+  justify-content: space-between;
+}    
+
+
+ .filters .heading h3 {
+margin-top: 10px;
+margin-left: 45px;
+
+font-size: 1rem;
+margin-bottom: 10px;
+
+}
+
+.filters .heading i {
+  font-size: 0.8rem;
+  border-top: 1px solid #DEE2E7;
+  margin-top: 18px;
+  color: #8B96A5;
+}
+
+
+.filters p{
+
+    color: #505050;
+    font-size: 0.8rem;
+    padding: 5px;
+    margin-left: 40px;
+
+ }
+
+
+ .filters p:hover{
+  color: #000;
+  cursor: pointer;
+
+ }
+
+ .filters p input {
+  margin-right: 2px;
+ }
+
+ .container .sidebar a {
+  text-decoration: none;
+  margin-left: 40px;
+  font-size: 0.9rem;
+                
+   color: #0D6EFD;
+  }
+  
+
+
+
