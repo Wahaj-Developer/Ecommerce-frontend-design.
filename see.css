@@ -95,3 +95,117 @@ header #main {
     margin-right: 15px; 
 }
 
+
+.section1 {
+    display: flex;
+    font-weight: 500;
+    font-size: 0.8rem;
+    justify-content: space-between; 
+    border: 1px solid #f0f0f0;
+    background-color: #ffff;
+    align-items: center; 
+    width: 100%; 
+}
+
+.section-box1 {
+    margin-left: 58px; 
+    display: flex;
+    gap: 10px; 
+    padding: 10px; 
+}
+
+.section-box1 a {
+    padding: 5px;
+    color: #000;
+    text-decoration: none;
+}
+
+.section1 .arrow {
+    color: gray;
+    font-size: 0.8rem;
+    margin-top: 10px;
+    
+}
+.section1 .arrow:hover {
+    cursor: pointer;
+
+}
+.section-box1 .bar{
+    color: #000;
+    font-size: 1rem;
+    padding: 5px;
+}
+
+.section-box1 .bar:hover{
+    cursor: pointer;
+}
+
+.section-box2 {
+    margin-right: 38px; 
+    display: flex;
+    gap: 10px; 
+    padding: 10px; 
+}
+
+
+.section-box2 img {
+margin-top: 5px;
+height: 20px;
+width: 30px;
+}
+
+.section-box2 .first{
+    font-size: 12px;
+    margin-left: 5px;
+    color: gray;
+} 
+
+.section-box2 .second {
+    margin-top: 9px;
+    color: gray;
+    font-size: 12px;
+}
+
+.section-box1 span, .section-box2 span {
+    padding: 5px;
+    border-radius: 3px;
+}
+
+.section-box1 span:hover, .section-box2 span:hover{
+    cursor: pointer;
+    background-color:#E5F1FF;
+    border-radius: 5px;
+
+}
+
+.section2 {
+    display: flex;
+    background-color:#f5f5f5 ;
+  
+    font-size: 0.7rem;
+}
+
+.section2 .box {
+    margin-left: 75px;
+    padding-top: 10px;
+    
+}
+
+.section2 .box span {
+    padding: 5px;
+    color: #8B96A5;
+}
+
+.section2 .box span:hover{
+  color: #007bff;
+  cursor: pointer;
+}
+
+
+.section2 .box i {
+    color: #8B96A5;
+
+}
+
+
+
