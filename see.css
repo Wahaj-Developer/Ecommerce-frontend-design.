@@ -1,1 +1,24 @@
 
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Mona Sans", sans-serif;
+    
+}
+
+header #main {
+    display: flex;
+    font-family: "Mona Sans", sans-serif;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    max-width: 1200px; 
+    padding: 0 20px; 
+}
+
+#main .logo {
+    height: 35px;
+    width: auto;
+    margin-right: 15px; 
+}
