@@ -401,3 +401,74 @@ margin-bottom: 10px;
   }
 
 
+  .detail {
+    display: flex;
+    width: 100%;
+    border-top: 1px solid #DEE2E7;
+    padding-top: 10px;
+  }
+  
+  .detail .left {
+    flex: 4; 
+    min-width: 0; 
+    padding-left: 10px;
+  }
+
+  .detail .left .price {
+    color: #1C1C1C;
+    font-size: 0.8rem;
+    font-weight: 800;
+  }
+  
+  .detail .left .old {
+    font-size: 0.8rem;
+    font-weight: 800;
+    margin-left: 5px;
+    color: #8B96A5;
+    text-decoration:line-through;
+  }
+
+  .detail .left .star {
+    color: #FF9017;
+    font-size: 0.7rem;
+  }
+
+  .detail .left .starchan {
+    color: #DEE2E7;
+    font-size: 0.7rem;
+  }
+
+  .detail .left  .num {
+    color: #FF9017;
+    font-size: 0.7rem;
+  }
+
+  
+  .detail .left p {
+    color: 606060;
+    font-size: 0.6rem;
+    line-height: 1;
+  }
+
+  .detail .right {
+    flex: 1; 
+    min-width: 0; 
+    
+  }
+
+  .detail .right i {
+    font-size: 1rem;
+    padding: 5px;
+    border-radius: 4px;
+    text-align: center;
+    color:#DEE2E7;
+    border: 1px solid #DEE2E7;
+  }
+
+  .detail i:hover {
+    color: #FA3434;
+    
+    border: none;
+  }
+
+
