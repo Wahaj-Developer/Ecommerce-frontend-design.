@@ -305,6 +305,154 @@ main h1 {
 }
 
 
+
+.section2 {
+    background-color: #f5f5f5;
+    height: 300px;
+    width: 25%;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+
+
+.min-box {
+    height: 25%;
+    width: 100%;
+    background-color: #fff;
+    border: 1px solid #e0e0e0;
+    border-radius: 6px;
+    box-sizing: border-box;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.min-box h5 {
+    font-size: 0.8rem;
+    color: #505050;
+    margin-bottom: 4px;
+}
+
+.coupon-input-group {
+    display: flex;
+    align-items: center;
+}
+
+.min-box input {
+    flex: 1;
+    height: 30px;
+    border: 1px solid #e0e0e0;
+    border-right: none;
+    border-radius: 4px;
+    padding: 0 10px;
+    outline: none;
+}
+
+.min-box button {
+    height: 30px;
+    padding: 0 10px;
+    font-size: 0.7rem;
+    color: #0D6EFD;
+    background: none ;
+    border: 1px solid #e0e0e0;
+    border-radius: 4px;
+    cursor: pointer;
+
+}
+
+.min-box button:hover {
+    background-color: #0D6EFD;
+    color: #fff;
+}
+
+.big-box {
+    height: calc(80% - 15px); /* accounts for the gap */
+    width: 100%;
+    
+    background-color:#fff;
+    border: 1px solid #e0e0e0;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.big-box .statement {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 15px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.big-box .statement p {
+    color: #505050;
+    font-size: 0.8rem;
+    line-height: 20px;
+}
+
+.big-box .statement .num2 {
+    color: #FA3434;
+}
+
+.big-box .statement .figure .num3 {
+    color: #00B517;
+}
+
+.big-box  .total {
+    border-top: 1px solid #000;
+    margin-top: 15px;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.big-box  .total p {
+    color: #1C1C1C;
+    font-size: 0.8rem;
+
+}
+
+.big-box  .total span {
+    color: #1C1C1C;
+    font-size: 1rem;
+    font-weight: 600;
+}
+
+.big-box  .check  {
+    background: none;
+    border: none;
+    color: #fff;
+    background-color: #00B517;
+    padding: 10px 70px;
+    border-radius: 4px;
+     margin-top: 10px; 
+    margin-left: 24px;
+}
+
+.big-box  .check:hover {
+    color: #00B517;
+    border: 1px solid #00B517;
+    background-color:#fff ;
+}
+
+.big-box .card {
+    display:flex ;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.big-box .card img {
+    margin-top: 8px;
+    background: transparent;
+    border: none;
+    object-fit: cover;
+    height: 15px;
+    width: 20px;
+}
+
+
+
 .box5 .all:hover{
     background-color:#0D6EFD ;
     border: none;
