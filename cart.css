@@ -789,6 +789,33 @@ main h1 {
     flex-wrap: wrap;
     /* Wrap content on small screens */
   }
+
+
+  /* Language Selector */
+  .footer-language {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+  }
+  
+  /* Language Icon */
+  .footer-language img {
+    width: 20px;
+    margin-right: 5px;
+  }
+  
+  .footer-language span {
+    color: #606060;
+    font-size: 0.7rem;
+  }
+  
+  
+  /* Chevron Icon */
+  .footer-language i {
+    font-size: 0.6rem;
+    /* margin-left: 5px; */
+  }
+  
   
   .footer-bottom p{
     font-size: 0.8rem;
