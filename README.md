@@ -13,3 +13,11 @@ Product detail pages
 Shopping cart functionality
 
 Responsive design for all device sizes
+
+Features
+✅ Modern, clean UI design
+✅ Fully responsive layout
+✅ Interactive product displays
+✅ Shopping cart functionality
+✅ Product filtering and sorting
+✅ User account section
