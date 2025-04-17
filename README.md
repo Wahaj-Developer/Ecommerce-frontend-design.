@@ -21,3 +21,15 @@ Features
 ✅ Shopping cart functionality
 ✅ Product filtering and sorting
 ✅ User account section
+
+
+Pages Included
+Homepage (index.html) - Main landing page with featured products
+
+Category Page (category.html) - Product category browsing
+
+Product Detail (productdetail.html) - Individual product view
+
+Cart Page (cart.html) - Shopping cart management
+
+See All Products (see.html) - Expanded product listing
