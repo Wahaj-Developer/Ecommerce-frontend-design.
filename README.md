@@ -31,3 +31,14 @@ Features
 ✅ Shopping cart functionality (static)
 ✅ Product filtering and sorting (UI only)
 ✅ User account section (UI mockup)
+
+Pages Included
+Homepage (index.html) – Main landing page with featured products
+
+Category Page (category.html) – Product category browsing
+
+Product Detail (productdetail.html) – Individual product view
+
+Cart Page (cart.html) – Shopping cart management (static)
+
+See All Products (see.html) – Expanded product listing
