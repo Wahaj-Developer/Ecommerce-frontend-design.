@@ -14,3 +14,12 @@ Product detail pages
 Shopping cart functionality
 
 Optimized for desktop viewing
+
+Key Points
+This project was developed during my internship at Developer Hub Corporation.
+
+The design and assets were provided by the company.
+
+Due to time constraints, the project is currently optimized for desktop and does not include responsive design for mobile/tablet devices.
+
+I was keen to implement responsiveness, but the priority was delivering a polished desktop experience within the given timeline.
