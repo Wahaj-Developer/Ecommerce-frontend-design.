@@ -42,3 +42,15 @@ Product Detail (productdetail.html) – Individual product view
 Cart Page (cart.html) – Shopping cart management (static)
 
 See All Products (see.html) – Expanded product listing
+
+
+Technologies Used
+HTML5
+
+CSS3 (Flexbox, Grid)
+
+Google Fonts (Mona Sans, Poppins, Inter)
+
+Font Awesome icons
+
+Desktop-first design approach
