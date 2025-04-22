@@ -54,3 +54,11 @@ Google Fonts (Mona Sans, Poppins, Inter)
 Font Awesome icons
 
 Desktop-first design approach
+
+
+How to Use
+Clone this repository.
+
+Open any HTML file in a desktop browser to view the pages.
+
+Navigate between pages using the header links.
