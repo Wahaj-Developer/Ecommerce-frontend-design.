@@ -23,3 +23,11 @@ The design and assets were provided by the company.
 Due to time constraints, the project is currently optimized for desktop and does not include responsive design for mobile/tablet devices.
 
 I was keen to implement responsiveness, but the priority was delivering a polished desktop experience within the given timeline.
+
+Features
+✅ Modern, clean UI design
+✅ Desktop-optimized layout
+✅ Interactive product displays
+✅ Shopping cart functionality (static)
+✅ Product filtering and sorting (UI only)
+✅ User account section (UI mockup)
