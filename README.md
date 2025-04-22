@@ -73,3 +73,15 @@ Intuitive navigation
 Product cards with hover effects
 
 Grid-based layouts for product displays
+
+Future Improvements
+Add JavaScript for dynamic functionality (cart, filters, etc.)
+
+Implement backend integration for real product data
+
+Add user authentication
+
+Extend responsiveness to mobile & tablet devices
+
+Enhance product filtering with interactive features
+
