@@ -62,3 +62,14 @@ Clone this repository.
 Open any HTML file in a desktop browser to view the pages.
 
 Navigate between pages using the header links.
+
+Design Highlights
+Clean, modern aesthetic
+
+Consistent color scheme and typography
+
+Intuitive navigation
+
+Product cards with hover effects
+
+Grid-based layouts for product displays
