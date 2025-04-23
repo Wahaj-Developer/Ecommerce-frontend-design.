@@ -1,3 +1,4 @@
+[Uploading 1.wmv…]()
 
 E-Commerce Website Project
 A desktop-focused e-commerce platform built with HTML and CSS, featuring multiple pages with a modern UI design.
@@ -84,4 +85,11 @@ Add user authentication
 Extend responsiveness to mobile & tablet devices
 
 Enhance product filtering with interactive features
+
+
+Cheak out this project on 👀:
+
+Links:
+
+https://www.linkedin.com/feed/update/urn:li:activity:7318750111998574592/
 
