@@ -1,4 +1,10 @@
 
+<h4>Note:</h4>This website only design for desktop version.
+
+
+
+
+
 E-Commerce Website Project
 A desktop-focused e-commerce platform built with HTML and CSS, featuring multiple pages with a modern UI design.
 
