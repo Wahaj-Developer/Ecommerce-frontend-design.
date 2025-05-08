@@ -7,7 +7,7 @@ https://www.linkedin.com/feed/update/urn:li:activity:7318750111998574592/
 <br/>
 
 <h2>If you are in dekstope check this link:</h2>
-
+https://frontend-ecomerce-multiple-page-web.netlify.app/
 <br/>
 E-Commerce Website Project
 A desktop-focused e-commerce platform built with HTML and CSS, featuring multiple pages with a modern UI design.
