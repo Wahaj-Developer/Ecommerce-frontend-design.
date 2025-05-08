@@ -1,12 +1,9 @@
 
 <h1>Note:</h1>This website only design for desktop version.<br/>
-
-
-<br/>
 <br/>
 
-<h4>For good visualization</h4>
-
+<h2>For good visualization link:</h2>
+https://wahaj-developer.github.io/Furni--Modern-Interior-Design-Studio/
 
 E-Commerce Website Project
 A desktop-focused e-commerce platform built with HTML and CSS, featuring multiple pages with a modern UI design.
