@@ -2,12 +2,12 @@
 <h1>Note:</h1>This website only design for desktop version.<br/>
 <br/>
 
-<h2>For good visualization in mobile link:</h2>
+<h2>For good visualization in mobile vedio link:</h2>
 https://www.linkedin.com/feed/update/urn:li:activity:7318750111998574592/
 <br/>
 
 <h2>If you are in dekstope check this link:</h2>
-https://wahaj-developer.github.io/Ecommerce-frontend-design./
+
 <br/>
 E-Commerce Website Project
 A desktop-focused e-commerce platform built with HTML and CSS, featuring multiple pages with a modern UI design.
