@@ -3,7 +3,7 @@
 <br/>
 
 <h2>For good visualization link:</h2>
-https://wahaj-developer.github.io/Furni--Modern-Interior-Design-Studio/
+https://www.linkedin.com/feed/update/urn:li:activity:7318750111998574592/
 
 E-Commerce Website Project
 A desktop-focused e-commerce platform built with HTML and CSS, featuring multiple pages with a modern UI design.
